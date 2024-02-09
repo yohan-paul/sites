@@ -34,6 +34,7 @@ main{
     .body{
         padding: 50px;
         font-size: 16px;
+        font-family: sans-serif;
     }
 }
 a:hover{
